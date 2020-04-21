@@ -16,5 +16,6 @@
   <author href="https://notavailableyet.com" email="support@catch34.com">
       DC
   </author>
-  <icon src="puppycorn.gif" />
+  <icon src="puppycorn.png" />
+    <feature name="http://api.phonegap.com/1.0/camera" />
 </widget>
