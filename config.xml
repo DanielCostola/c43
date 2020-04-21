@@ -17,9 +17,5 @@
       DC
   </author>
   <icon src="puppycorn.png" />
-  <feature name="http://api.phonegap.com/1.0/camera" />
-      <platform name="android">
-        <uses-permission name="android.permission.CAMERA" />
-    </platform>
     
 </widget>
